@@ -23,9 +23,9 @@
 
 // Array, Objects, Functions
 
-// const heros = ["shaktiman", "naagraj", "doga"];
+// const heros = ["Ironman", "Nick Fury", "doga"];
 // let myObj = {
-//     name: "hitesh",
+//     name: "Astik",
 //     age: 22,
 // }
 
